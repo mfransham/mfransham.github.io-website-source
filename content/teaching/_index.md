@@ -10,7 +10,7 @@ title: Teaching
 
 Quantitative Methods module of MSc in Evidence-Based Social Intervention and Policy Evaluation, Department of Social Policy and Intervention, University of Oxford, 2019 - 
 
-- [Free online resources for learning statistics in R](../online-R-resources)
+- [Free online resources for learning statistics in R](../online-r-resources)
 
 ### Past teaching
 
