@@ -6,7 +6,7 @@ header:
 title: Free online resources for learning statistics in R
 ---
 
-One of the helpful things about using R is that there are many free resources and online books available to learn from.  Here are some of the resources I have found particularly helpful.  
+One of the fabulous things about R is that there are many free resources and online books available to learn from.  Here is a small selection that I have found useful.  
 
 ### Introductions to doing applied statistics with R
 
@@ -58,15 +58,22 @@ Obviously there's your [favourite search engine](https://duckduckgo.com/); less 
 
 ### Data visualisation with ggplot2
 
-[ggplot2 book](https://ggplot2-book.org/) by Hadley Wickham
-- The original book, online version 
+[ggplot2 book](https://ggplot2-book.org/) by Hadley Wickham: an online version of the original book on ggplot2
 
-[ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about)
-- A visual guide to ggplot2
+[ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about): a visual guide to ggplot2
+
 
 ### Resources from RStudio
 
 RStudio [suggested resources for beginners](https://education.rstudio.com/learn/beginner/)
 
-RStudio [webinars](https://rstudio.com/resources/webinars/)
-- Loads of useful stuff but videos are approx. 50 mins each so a bit much for the beginner
+RStudio [webinars](https://rstudio.com/resources/webinars/): loads of useful stuff. Videos are approx. 50 mins each, so many are more appropriate for intermediate / advanced R users
+
+
+### Meta-analysis
+
+[Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) by Harrer *et al.*: a comprehensive applied guide, with very useful links to free resources on the theory
+
+[How to perform a meta-analysis with R](https://ebmh.bmj.com/content/22/4/153) by Balduzzi *et al.*: a short tutorial in the *Evidence-Based Mental Health* on doing meta-analysis with the package `meta`
+
+[R packages for meta-analysis](https://cran.r-project.org/view=MetaAnalysis): an overview of the myriad R packages available for meta-analysis
