@@ -77,3 +77,9 @@ RStudio [webinars](https://rstudio.com/resources/webinars/): loads of useful stu
 [How to perform a meta-analysis with R](https://ebmh.bmj.com/content/22/4/153) by Balduzzi *et al.*: a short tutorial in the *Evidence-Based Mental Health* on doing meta-analysis with the package `meta`
 
 [R packages for meta-analysis](https://cran.r-project.org/view=MetaAnalysis): an overview of the myriad R packages available for meta-analysis
+
+
+### Survey analysis
+
+[Survey analysis in R](http://r-survey.r-forge.r-project.org/survey/): the homepage of the `survey` package, written and maintained by Thomas Lumley
+
