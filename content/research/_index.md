@@ -9,6 +9,8 @@ title: Research
 
 ### Peer-reviewed publications
 
+Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L. and Savage, M. (forthcoming) Social polarisation at the local level: a four-town comparative study on the challenges of politicising inequality in Britain. *Sociology*.
+
 Fransham, M. (2020) Neighbourhood gentrification, displacement, and poverty dynamics in post-recession England, *Population, Space and Place*, 25(5):e2327.  https://doi.org/10.1002/psp.2327 
 
 Fransham, M. (2019) Increasing evenness in the neighbourhood distribution of income poverty in England 2005–2014: Age differences and the influence of private rented housing, *Environment and Planning A: Economy and Space* 51(2), 403–419. https://doi.org/10.1177/0308518X18792569 
