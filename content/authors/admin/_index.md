@@ -9,13 +9,13 @@ email: "m.fransham@lse.ac.uk"
 # - Demography including official population statistics methodologies
 # - Quantitative methods, R statistics and computational social science 
 organizations:
-- name: International Inequalities Institute, London School of Economics & Political Science
-  url: "http://www.lse.ac.uk/International-Inequalities/People/Mark-Fransham"
-role: Researcher
+- name: Department of Social Policy & Intervention, University of Oxford
+  url: "http://www.spi.ox.ac.uk"
+role: Departmental Lecturer in Quantitative Methods
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:m.fransham@lse.ac.uk
+  link: mailto:mark.fransham@spi.ox.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/markfransham
@@ -38,12 +38,12 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher at the International Inequalities Institute (III) of the London School of Economics & Political Science.  At the III I am a postdoctoral researcher on two projects: a mixed-methods study of polarisation and inequality in four English towns; and a research theme on ‘Cities, Jobs and the Knowledge Economy’, exploring what the latest phase of technological change means for spatial economic inequality in the UK. 
+I am Departmental Lecturer in Quantitative Methods at the Department of Social Policy & Intervention, University of Oxford.  I am interested in spatial economic inequality, its measurement, causes and consequences; the social and economic policies that aim to address these inequalities; and the spatial impact of public policy that is 'place blind' but nonetheless has uneven geographic effects.  I have interests in population geography and the methods used in the production of official demographic statistics.  
 
-I completed my DPhil in November 2018 at Oxford’s School of Geography and the Environment with a thesis titled ‘Understanding neighbourhood income poverty dynamics in England’. My doctoral research examines the dynamics of income poverty – how the risk of poverty changes over time within households and within places - at neighbourhood level in England. 
+I am also a Junior Research Fellow at [Wolfson College, Oxford](https://www.wolfson.ox.ac.uk/), and a Visiting Fellow at the [International Inequalities Institute (III)](https://www.lse.ac.uk/International-Inequalities) of the London School of Economics & Political Science.  
 
 ### Interests
 - The geography of economic and health inequalities in the UK
 - Social policy, especially income support, housing, labour market policy and local government
 - Demography including official population statistics methodologies
-- Quantitative methods, R statistics and computational social science 
+- Quantitative methods, statistical analysis in R and computational social science 
