@@ -38,9 +38,9 @@ user_groups:
 - Visitors
 ---
 
-I am Departmental Lecturer in Quantitative Methods at the Department of Social Policy & Intervention, University of Oxford.  I am interested in spatial economic inequality, its measurement, causes and consequences; the social and economic policies that aim to address these inequalities; and the spatial impact of public policy that is 'place blind' but nonetheless has uneven geographic effects.  I have interests in population geography and the methods used in the production of official demographic statistics.  
+I am the Departmental Lecturer in Quantitative Methods at the Department of Social Policy & Intervention, University of Oxford.  I am interested in spatial economic inequality, its measurement, causes and consequences; the social and economic policies that aim to address these inequalities; and the spatial impact of public policy that is 'place blind' but nonetheless has uneven geographic effects.  I have interests in population geography and the methods used in the production of official demographic statistics.  
 
-I am also a Junior Research Fellow at [Wolfson College, Oxford](https://www.wolfson.ox.ac.uk/), and a Visiting Fellow at the [International Inequalities Institute (III)](https://www.lse.ac.uk/International-Inequalities) of the London School of Economics & Political Science.  
+I am also a Junior Research Fellow at [Wolfson College, Oxford](https://www.wolfson.ox.ac.uk/), and a Visiting Fellow at the [International Inequalities Institute (III)](https://www.lse.ac.uk/International-Inequalities) of the London School of Economics & Political Science.  I act as an advisor to the [Office for National Statistics](https://www.ons.gov.uk/) on the UK Population Theme Advisory Board and the Government Statistical Service Migration Expert Group.   
 
 ### Interests
 - The geography of economic and health inequalities in the UK
