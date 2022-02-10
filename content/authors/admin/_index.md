@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: My research interests include the geography of economic inequality and its relationship to social policy in the UK.
-email: "m.fransham@lse.ac.uk"
+email: "mark.fransham@spi.ox.ac.uk"
 # interests:
 # - The geography of economic and health inequalities in the UK
 # - Social policy, especially income support, housing, labour market policy and local government
@@ -11,7 +11,7 @@ email: "m.fransham@lse.ac.uk"
 organizations:
 - name: Department of Social Policy & Intervention, University of Oxford
   url: "http://www.spi.ox.ac.uk"
-role: Departmental Lecturer in Quantitative Methods
+role: Senior Research Officer & Departmental Lecturer in Quantitative Methods
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,7 +30,7 @@ social:
   link: http://orcid.org/0000-0002-9284-2517
 - icon: academia
   icon_pack: ai
-  link: https://lse.academia.edu/MarkFransham 
+  link: https://oxford.academia.edu/MarkFransham 
 superuser: true
 title: Mark Fransham
 user_groups:
