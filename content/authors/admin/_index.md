@@ -38,12 +38,10 @@ user_groups:
 - Visitors
 ---
 
-I am the Departmental Lecturer in Quantitative Methods at the Department of Social Policy & Intervention, University of Oxford.  I am interested in spatial economic inequality, its measurement, causes and consequences; the social and economic policies that aim to address these inequalities; and the spatial impact of public policy that is 'place blind' but nonetheless has uneven geographic effects.  I have interests in population geography and the methods used in the production of official demographic statistics.  
+I am a social data scientist using quantitative methods, social science theory and computational approaches to study geographic inequality, poverty, demography and public policy.  Other (polite) things people have called me: geographer, economist, sociologist, statistician, data visualiser, demographer, cartographer. Take your pick!  I start the day with [`library(tidyverse)`](https://www.tidyverse.org/).
 
-I am also a Junior Research Fellow at [Wolfson College, Oxford](https://www.wolfson.ox.ac.uk/), and a Visiting Fellow at the [International Inequalities Institute (III)](https://www.lse.ac.uk/International-Inequalities) of the London School of Economics & Political Science.  I act as an advisor to the [Office for National Statistics](https://www.ons.gov.uk/) on the UK Population Theme Advisory Board and the Government Statistical Service Migration Expert Group.   
+I work at the Department of Social Policy & Intervention, University of Oxford, where I am a Senior Research Officer and the Departmental Lecturer in Quantitative Methods.  I am a co-investigator on the *Linking National and Regional Inequality* project, a comparative study of trends in geographic income inequality in Europe and North America.  I teach introductory and advanced quantitative methods in the department, convene the [Modern Methods in Social Policy and Intervention Research](https://www.youtube.com/playlist?list=PLXr8G5YP2Gk1TYwAtBF90cHnaMcQwyret) seminar series and run the Methods Hub, an advisory service for DPhil (PhD) students.  
 
-### Interests
-- The geography of economic and health inequalities in the UK
-- Social policy, especially income support, housing, labour market policy and local government
-- Demography including official population statistics methodologies
-- Quantitative methods, statistical analysis in R and computational social science 
+I am also a Junior Research Fellow at [Wolfson College, Oxford](https://www.wolfson.ox.ac.uk/), a Visiting Fellow at the [International Inequalities Institute (III)](https://www.lse.ac.uk/International-Inequalities) of the London School of Economics & Political Science, trustee of the [British Society for Population Studies](https://www.lse.ac.uk/social-policy/research/Research-clusters/british-society-for-population-studies) and an advisor to the [Office for National Statistics](https://www.ons.gov.uk/) on the UK Population Theme Advisory Board and the Government Statistical Service Migration Expert Group.   
+
+Outside work I run the youth section of [Kidlington Cricket Club](https://www.kidlingtoncricket.com/) as an ECB qualified coach, am a member of [Oxford and District Action on Child Poverty](https://www.oxfordmail.co.uk/news/18550073.oxford-group-calls-government-end-child-poverty-city/), an active advocate for [roads that are safe by design](https://www.bbc.co.uk/news/uk-england-oxfordshire-60478638), and a singer who passably plays accompanying instruments.  
