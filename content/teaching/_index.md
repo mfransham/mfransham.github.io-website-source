@@ -8,7 +8,7 @@ title: Teaching
 
 ### Useful resources
 
-- [Free online resources for learning statistical methods in R](../online-r-resources)
+- [Free online resources for social data science methods with R](../online-r-resources)
 - [Modern Methods in Social Policy and Intervention Research](https://www.youtube.com/playlist?list=PLXr8G5YP2Gk1TYwAtBF90cHnaMcQwyret) seminar series
 
 ### Current teaching
