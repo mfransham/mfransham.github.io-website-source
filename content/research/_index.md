@@ -9,7 +9,7 @@ title: Research
 
 ### Peer-reviewed journal articles
 
-Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*. https://doi.org/10.1111/spol.12768 ([Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
+Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. *Social Policy & Administration*. https://doi.org/10.1111/spol.12768 ([The Guardian](https://www.theguardian.com/commentisfree/2021/oct/03/universal-credit-cut-will-risk-the-health-of-millions) | [New Psychotherapist](https://www.psychotherapy.org.uk/media/otzimjco/79-new-psychotherapist-winter-spring-2022.pdf))
 
 Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L., & Savage, M. (2020). Social Polarisation at the Local Level: A Four-Town Comparative Study on the Challenges of Politicising Inequality in Britain, *Sociology*, 55(1), 3–29. https://doi.org/10.1177/0038038520975593 (nominated for [2022 SAGE Prize for Innovation/Excellence](https://www.britsoc.co.uk/opportunities/sage-prize-for-innovationexcellence/))
 
