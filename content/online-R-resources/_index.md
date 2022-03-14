@@ -103,7 +103,9 @@ Statistical Rethinking: a series of [YouTube lectures](https://www.youtube.com/p
 
 [How to perform a meta-analysis with R](https://ebmh.bmj.com/content/22/4/153) by Balduzzi *et al.*: a short tutorial in the *Evidence-Based Mental Health* on doing meta-analysis with the package `meta`
 
-[R packages for meta-analysis](https://cran.r-project.org/view=MetaAnalysis): an overview of the myriad R packages available for meta-analysis
+The website for the `metafor` package has [data and replication code for around 25 meta-analysis papers](http://www.metafor-project.org/doku.php/analyses) using a variety of meta-analysis techniques  
+
+[R packages for meta-analysis](https://cran.r-project.org/view=MetaAnalysis): an overview of the R packages available for meta-analysis
 
 ### Missing data methods
 
@@ -129,6 +131,8 @@ Code and walkthrough videos to accompany Leite (2017) [Practical Propensity Scor
 `sf`, [Simple Features for R](https://r-spatial.github.io/sf/) - spatial data, simplified
 
 [Geocomputation with R](https://geocompr.robinlovelace.net/) by Lovelace, Nowosad and Muenchow
+
+[Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/): an introduction to working with spatial analysis from the University of Liverpool's Geographic Data Science Lab
 
 ### Synthetic control
 
