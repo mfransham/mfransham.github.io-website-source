@@ -22,6 +22,8 @@ Fransham, M. (2019) Income and Population Dynamics in Deprived Neighbourhoods: M
 
 ### Working papers and other publications
 
+Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Edward Elgar.
+
 Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. Working Paper CASE/221, Centre for Analysis of Social Exclusion, London School of Economics & Political Science. https://sticerd.lse.ac.uk/dps/case/cp/casepaper221.pdf
 
 Koch, I., Fransham, M., Cant, S., Ebrey, J., Glucksberg, L. and Savage, M. (2019) Social polarisation at the local level: a four-town comparative study. Working Paper (37). International Inequalities Institute, London School of Economics & Political Science, London, UK. http://eprints.lse.ac.uk/102216/
