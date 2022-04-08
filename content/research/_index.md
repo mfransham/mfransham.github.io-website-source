@@ -22,7 +22,7 @@ Fransham, M. (2019) Income and Population Dynamics in Deprived Neighbourhoods: M
 
 ### Working papers and other publications
 
-Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Edward Elgar.
+Fransham, M. (forthcoming). Poverty. In D. Demeritt & L. Lees (Eds.), *Concise Encyclopedia of Human Geography*. Cheltenham: Edward Elgar.
 
 Reeves, A., Fransham, M., Stewart, K., & Patrick, R. (2021). Does capping social security harm health? A natural experiment in the UK. Working Paper CASE/221, Centre for Analysis of Social Exclusion, London School of Economics & Political Science. https://sticerd.lse.ac.uk/dps/case/cp/casepaper221.pdf
 
