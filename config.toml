@@ -24,6 +24,10 @@ publishDir = "../mfransham.github.io"
 ## Advanced options below ##
 ############################
 
+# custom CSS 
+# instructions at https://www.banjocode.com/post/hugo/custom-css/
+custom_css = ["css/custom.css"]
+
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
