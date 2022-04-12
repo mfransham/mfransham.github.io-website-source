@@ -107,6 +107,8 @@ The website for the `metafor` package has [data and replication code for around 
 
 [R packages for meta-analysis](https://cran.r-project.org/view=MetaAnalysis): an overview of the R packages available for meta-analysis
 
+No R, but there are some useful resources on the companion site to Borenstein *et al* (2021, 2nd edn) [Introduction to Meta-Analysis](https://introduction-to-meta-analysis.com/)
+
 ### Missing data methods
 
 [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) by Stef van Buuren
