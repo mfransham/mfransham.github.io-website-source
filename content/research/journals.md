@@ -29,6 +29,7 @@ title: Journals
 [Review of Economics and Statistics]
 [Journal of Labor Economics]
 [Journal of Human Resources]
+[Regional Science and Urban Economics](https://www.sciencedirect.com/journal/regional-science-and-urban-economics)
 [Journal of Urban Economics]
 [Oxford Review of Economic Policy](https://academic.oup.com/oxrep)
 
