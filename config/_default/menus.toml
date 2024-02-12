@@ -8,20 +8,20 @@
 #   url = "blog/"
 #   weight = 20
 
-# [[main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 30
-
 [[main]]
   name = "Publications"
   url = "publications/"
   weight = 40
 
 [[main]]
+ name = "Research notes"
+ url = "research-notes/"
+ weight = 50
+
+[[main]]
   name = "Teaching"
   url = "teaching/"
-  weight = 50
+  weight = 60
 
 #[[main]]
 #  name = "CV"
